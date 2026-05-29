@@ -1,0 +1,19 @@
+{
+  "name": "med-info-fhir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fhir-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kochd-htw/med-info-fhir.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kochd-htw/med-info-fhir/issues"
+  },
+  "homepage": "https://github.com/kochd-htw/med-info-fhir#readme"
+}
