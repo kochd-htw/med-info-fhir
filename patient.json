@@ -1,0 +1,23 @@
+{
+  "resourceType": "Patient",
+  "id": "131284146",
+  "meta": {
+    "versionId": "1",
+    "lastUpdated": "2026-02-23T15:21:59.571+00:00",
+    "source": "#nhWIvTkaGN52d2Qa"
+  },
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><div class=\"hapiHeaderText\">Max <b>MUSTERMANN </b></div><table class=\"hapiPropertyTable\"><tbody><tr><td>Date of birth</td><td><span>15 May 1980</span></td></tr></tbody></table></div>"
+  },
+  "name": [
+    {
+      "family": "Mustermann",
+      "given": [
+        "Max"
+      ]
+    }
+  ],
+  "gender": "male",
+  "birthDate": "1980-05-15"
+}
